@@ -21,7 +21,7 @@ The Mad Libs Generator is an interactive Python script where users provide words
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/madlibs-generator.git
+    git clone https://github.com/muhammadumermemon/madlibs.git
     ```
 
 2. **Navigate to the project directory:**
